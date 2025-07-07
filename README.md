@@ -7,6 +7,8 @@ I’m an android developer and this is my readme file
 
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat&logo=kotlin&logoColor=ffffff)
+- ![Dart](https://img.shields.io/badge/-Dart-007396?style=flat&logo=dart&logoColor=ffffff)
+- ![Flutter](https://img.shields.io/badge/-Flutter-007396?style=flat&logo=Flutter&logoColor=ffffff)
 
 ### Tools:
 - ![Android Studio](https://img.shields.io/badge/Android_Studio-0078D4?style=flat&logo=AndroidStudio&logoColor=ffffff)
