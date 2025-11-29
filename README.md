@@ -29,4 +29,4 @@ I’m an android developer and this is my readme file
 - X (twitter): [my X (twitter)](https://x.com/SoheilGhaz80852?t=N3GGl3oNlwFsiQiM4oqJcg&s=09)
 - LinkedIn: [my LinkedIn](https://www.linkedin.com/in/soheil-ghazimoradi-a42599343)
 
-![Most Used Languages](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=terminatorking)
+![Most Used Languages](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=terminatorking&layout=compact)
