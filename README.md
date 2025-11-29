@@ -29,4 +29,4 @@ I’m an android developer and this is my readme file
 - X (twitter): [my X (twitter)](https://x.com/SoheilGhaz80852?t=N3GGl3oNlwFsiQiM4oqJcg&s=09)
 - LinkedIn: [my LinkedIn](https://www.linkedin.com/in/soheil-ghazimoradi-a42599343)
 
-[![Top Langs-Light](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=terminatorking&layout=compact&theme=swift&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Most Used Languages](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=terminatorking&layout=compact&theme=swift&hide_border=true&count_private=true&show_icons=true&langs_count=10&size_weight=0.5&count_weight=0.5&disable_animations=true&bg_color=00000000#gh-light-mode-only)
