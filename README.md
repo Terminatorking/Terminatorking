@@ -25,7 +25,7 @@ I’m an android developer and this is my readme file
 - 📦 Modular & clean project structure
 
 ## 📱 Social Links:
-- Telegram: [my Telegram](https://t.me/terminator_dark_fate5)
+- Telegram: [my Telegram](https://t.me/imjustterminator)
 - X (twitter): [my X (twitter)](https://x.com/SoheilGhaz80852?t=N3GGl3oNlwFsiQiM4oqJcg&s=09)
 - LinkedIn: [my LinkedIn](https://www.linkedin.com/in/soheil-ghazimoradi-a42599343)
 
