@@ -1,32 +1,54 @@
-# Hello, I'm soheil ghazimoradi 👋
+# Hi there, I'm Soheil Ghazimoradi👋
 
-I’m an android developer and this is my readme file
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer;Java+Enthusiast" alt="Typing SVG" />
 
-## 💻 My Skills:
-### Programming Languages:
+I am an impassioned Android Developer specializing in building native applications and mobile games. I love bringing ideas to life on mobile devices, from managing complex application states to crafting engaging user interfaces.
 
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat&logo=kotlin&logoColor=ffffff)
-- ![Dart](https://img.shields.io/badge/-Dart-007396?style=flat&logo=dart&logoColor=ffffff)
-- ![Flutter](https://img.shields.io/badge/-Flutter-007396?style=flat&logo=Flutter&logoColor=ffffff)
+### 💻 Tech Stack & Tools
 
-### Tools:
-- ![Android Studio](https://img.shields.io/badge/Android_Studio-0078D4?style=flat&logo=AndroidStudio&logoColor=ffffff)
-- ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=ffffff)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  </a>
+</p>
 
-### Features:
-- 🔄 MVVM Architecture with LiveData / StateFlow
-- 🗃️ Room / DataStore for local persistence
-- 🌐 Retrofit 
-- 💉 Dependency Injection with Hilt
-- 📦 Modular & clean project structure
+---
 
-## 📱 Social Links:
-- Telegram: [my Telegram](https://t.me/imjustterminator)
-- X (twitter): [my X (twitter)](https://x.com/SoheilGhaz80852?t=N3GGl3oNlwFsiQiM4oqJcg&s=09)
-- LinkedIn: [my LinkedIn](https://www.linkedin.com/in/soheil-ghazimoradi-a42599343)
+### 📊 GitHub Stats
 
-![Most Used Languages](https://github-readme-stats-cyyin.vercel.app/api/top-langs/?username=terminatorking&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Terminatorking&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Terminatorking&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Terminatorking&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/soheil-ghazimoradi-a42599343" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/SoheilGhaz80852?t=N3GGl3oNlwFsiQiM4oqJcg&s=09" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
